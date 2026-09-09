@@ -16,6 +16,7 @@ The **Oath of Chaos** is a homebrew Paladin subclass for Dungeons & Dragons 5th 
   * **Chaotic Swap:** Instantly switch places with any creature on the field, with a slight chance of a wild tether misfire.
 * **Volatile Smite & Table of Volatile Entropy (d12):** Rolling a `1` on your initial Divine Smite damage die triggers a surge of unpredictable wild magic—ranging from Astral fissures and rubber chickens to gravitational collapses and cosmic answers.
 * **Entropy's Favor:** Harness probability to gain advantage on rolls, recharging dynamically whenever chaos erupts.
+* **The Answer:** Whenever you roll a 42 on any die, damage total, or check, bend reality with one of four cosmic Hitchhiker effects once per long rest.
 * **Aura of Unbound Chaos:** Grant allies resistance to movement restriction, grapples, and difficult terrain.
 * **Unfettered Shift:** Use your reaction to negate forced movement or speed reduction and instantly blink across the battlefield.
 * **Avatar of Pure Anarchy:** Transform into a living force of liberation, phasing through walls, ignoring mind and movement conditions, and invoking chaos at will.
@@ -96,6 +97,19 @@ At 3rd level, you manipulate wild probability to gain advantage on one attack ro
 Before you regain the use of this feature, you recharge it immediately whenever one of the following occurs (max once per turn):
 * **Natural Entropy:** Immediately after you resolve a roll on the Table of Volatile Entropy triggered by Volatile Smite.
 * **DM Impulse:** The DM forces you to roll on the Table of Volatile Entropy immediately after you cast an Oath spell or use Divine Smite.
+
+---
+
+### The Answer
+Beginning when you take this oath at 3rd level, the universe occasionally recognizes profound cosmic significance in mundane chaos. Whenever you roll a 42 on any die, damage total, or check (a single die, a summed damage roll, an ability check total, or any other roll you make), reality briefly stutters in recognition.
+
+You may immediately choose one of the following effects:
+* **Don't Panic.** You and each ally within 30 feet gain temporary hit points equal to twice your Paladin level, and advantage on your next saving throw made within 1 minute.
+* **So Long, and Thanks for All the Fish.** You and up to two allies within 30 feet may immediately move up to your speed without provoking opportunity attacks, ending prone if you were prone, and each make one weapon attack as part of this movement.
+* **Mostly Harmless.** Every hostile creature within 15 feet that can see or hear you must succeed on a Wisdom saving throw against your spell save DC or become incapacitated and unable to take reactions until the start of your next turn, utterly convinced that none of this matters.
+* **42.** You deal an extra 4d10 Force damage to one creature you can see within 60 feet, or restore 4d10 hit points to one creature you can see within 60 feet.
+
+Once you benefit from The Answer, you can't do so again until you finish a long rest — the universe rarely repeats a joke twice in one session.
 
 ---
 
