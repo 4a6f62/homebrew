@@ -89,11 +89,19 @@ Once you benefit from The Answer, you can't do so again until you finish a long 
 
 ---
 
-### Aura of Unbound Chaos
+### Unbound Retaliation
 
-Beginning at 7th level, you project a **10-foot aura** of wild freedom. You and friendly creatures within your aura are immune to being restrained or grappled, have advantage on saving throws against being restrained or against effects that would reduce your speed, and difficult terrain costs you no extra movement.
+Beginning at 7th level, your chaotic magic lashes out whenever you strike in combat.
 
-At 18th level, the range of this aura increases to 30 feet.
+On a hit, you can teleport up to half your speed to an unoccupied space you can see, without provoking opportunity attacks.
+
+On a miss, roll a d4:
+
+| d4 | Effect |
+|:--:|--------|
+| 1–2 | Nothing happens; the chaotic energy fizzles. |
+| 3 | Disoriented by the misfire, you have disadvantage on your next attack roll before the end of your next turn. |
+| 4 | The chaotic backlash rebounds on you: you take force damage equal to your Paladin level, and the DM chooses an unoccupied space within half your speed for you to be teleported to (no player input on destination). |
 
 ---
 

@@ -17,7 +17,7 @@ The **Oath of Chaos** is a homebrew Paladin subclass for Dungeons & Dragons 5th 
 * **Volatile Smite & Table of Volatile Entropy (d12):** Rolling a `1` on your initial Divine Smite damage die triggers a surge of unpredictable wild magic—ranging from Astral fissures and rubber chickens to gravitational collapses and cosmic answers.
 * **Entropy's Favor:** Harness probability to gain advantage on rolls, recharging dynamically whenever chaos erupts.
 * **The Answer:** Whenever you roll a 42 on any die, damage total, or check, bend reality with one of four cosmic Hitchhiker effects once per long rest.
-* **Aura of Unbound Chaos:** Grant allies resistance to movement restriction, grapples, and difficult terrain.
+* **Unbound Retaliation:** On a hit, teleport up to half your speed; on a miss, risk a chaotic backlash.
 * **Unfettered Shift:** Use your reaction to negate forced movement or speed reduction and instantly blink across the battlefield.
 * **Avatar of Pure Anarchy:** Transform into a living force of liberation, phasing through walls, ignoring mind and movement conditions, and invoking chaos at will.
 
@@ -113,10 +113,18 @@ Once you benefit from The Answer, you can't do so again until you finish a long 
 
 ---
 
-### Aura of Unbound Chaos
-Beginning at 7th level, you project a **10-foot aura** of wild freedom. You and friendly creatures within your aura have advantage on saving throws against being restrained, grappled, or effects that would reduce your speed, and difficult terrain costs you no extra movement.
+### Unbound Retaliation
+Beginning at 7th level, your chaotic magic lashes out whenever you strike in combat.
 
-At 18th level, the range of this aura increases to 30 feet.
+On a hit, you can teleport up to half your speed to an unoccupied space you can see, without provoking opportunity attacks.
+
+On a miss, roll a d4:
+
+| d4 | Effect |
+|:--:|--------|
+| 1–2 | Nothing happens; the chaotic energy fizzles. |
+| 3 | Disoriented by the misfire, you have disadvantage on your next attack roll before the end of your next turn. |
+| 4 | The chaotic backlash rebounds on you: you take force damage equal to your Paladin level, and the DM chooses an unoccupied space within half your speed for you to be teleported to (no player input on destination). |
 
 ---
 

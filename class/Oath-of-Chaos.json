@@ -46,7 +46,7 @@
 				"Volatile Smite|Paladin|PHB|Chaos|oathofchaos|3|oathofchaos",
 				"Entropy's Favor|Paladin|PHB|Chaos|oathofchaos|3|oathofchaos",
 				"The Answer|Paladin|PHB|Chaos|oathofchaos|3|oathofchaos",
-				"Aura of Unbound Chaos|Paladin|PHB|Chaos|oathofchaos|7|oathofchaos",
+				"Unbound Retaliation|Paladin|PHB|Chaos|oathofchaos|7|oathofchaos",
 				"Unfettered Shift|Paladin|PHB|Chaos|oathofchaos|15|oathofchaos",
 				"Avatar of Pure Anarchy|Paladin|PHB|Chaos|oathofchaos|20|oathofchaos"
 			]
@@ -276,7 +276,7 @@
 			]
 		},
 		{
-			"name": "Aura of Unbound Chaos",
+			"name": "Unbound Retaliation",
 			"source": "oathofchaos",
 			"page": 1,
 			"subclassSource": "oathofchaos",
@@ -286,8 +286,35 @@
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"Beginning at 7th level, you project a 10-foot aura of wild freedom. You and friendly creatures within your aura are immune to being {@condition restrained} or {@condition grappled}, have advantage on saving throws against being {@condition restrained} or against effects that would reduce your speed, and difficult terrain costs you no extra movement.",
-				"At 18th level, the range of this aura increases to 30 feet."
+				"Beginning at 7th level, your chaotic magic lashes out whenever you strike in combat.",
+				"On a hit, you can teleport up to half your speed to an unoccupied space you can see, without provoking opportunity attacks.",
+				"On a miss, roll a {@dice d4}:",
+				{
+					"type": "table",
+					"caption": "Unbound Retaliation",
+					"colLabels": [
+						"d4",
+						"Effect"
+					],
+					"colStyles": [
+						"col-2 text-center",
+						"col-10"
+					],
+					"rows": [
+						[
+							"1–2",
+							"Nothing happens; the chaotic energy fizzles."
+						],
+						[
+							"3",
+							"Disoriented by the misfire, you have disadvantage on your next attack roll before the end of your next turn."
+						],
+						[
+							"4",
+							"The chaotic backlash rebounds on you: you take Force damage equal to your Paladin level, and the DM chooses an unoccupied space within half your speed for you to be teleported to (no player input on destination)."
+						]
+					]
+				}
 			]
 		},
 		{
