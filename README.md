@@ -114,7 +114,7 @@ Once you benefit from The Answer, you can't do so again until you finish a long 
 ---
 
 ### Unbound Retaliation
-Beginning at 7th level, your chaotic magic lashes out whenever you strike in combat.
+Beginning at 7th level, your chaotic magic lashes out whenever you make an attack roll, including opportunity attacks.
 
 On a hit, you can teleport up to half your speed to an unoccupied space you can see, without provoking opportunity attacks.
 
