@@ -91,7 +91,7 @@ Once you benefit from The Answer, you can't do so again until you finish a long 
 
 ### Unbound Retaliation
 
-Beginning at 7th level, your chaotic magic lashes out whenever you make an opportunity attack.
+Starting at 7th level, when you make an opportunity attack, chaotic space folds around you as part of the same reaction.
 
 On a hit, you can teleport up to half your speed to an unoccupied space you can see, without provoking opportunity attacks.
 
